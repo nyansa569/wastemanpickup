@@ -1,4 +1,3 @@
-import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 // import 'firebase_options.dart';
 import 'package:zoli_pick_up/screens/screens.dart';
